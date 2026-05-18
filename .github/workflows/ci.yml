@@ -43,5 +43,5 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run tests
-        run: node --test test/*.test.js
+      - name: Run agent-loop tests
+        run: npm test
