@@ -14,13 +14,13 @@
   },
   "license": "MIT",
   "author": "dwgx <somdhmtb@gmail.com> (https://github.com/dwgx)",
-  "homepage": "https://dwgx.github.io/WindsurfAPI/",
+  "homepage": "https://github.com/defomok-max/Wins",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dwgx/WindsurfAPI.git"
+    "url": "git+https://github.com/defomok-max/Wins.git"
   },
   "bugs": {
-    "url": "https://github.com/dwgx/WindsurfAPI/issues"
+    "url": "https://github.com/defomok-max/Wins/issues"
   },
   "keywords": [
     "windsurf",

@@ -1,7 +1,7 @@
 # Star & Follow me and I'll leave you alone
 
 <p align="center">
-  <a href="https://github.com/dwgx/WindsurfAPI/stargazers"><img src="https://img.shields.io/github/stars/dwgx/WindsurfAPI?style=for-the-badge&logo=github&color=f5c518" alt="Stars"></a>&nbsp;
+  <a href="https://github.com/defomok-max/Wins/stargazers"><img src="https://img.shields.io/github/stars/defomok-max/Wins?style=for-the-badge&logo=github&color=f5c518" alt="Stars"></a>&nbsp;
   <a href="https://github.com/dwgx"><img src="https://img.shields.io/github/followers/dwgx?label=Follow&style=for-the-badge&logo=github&color=181717" alt="Follow"></a>
   &nbsp;·&nbsp;
   <a href="README.md">中文/简体中文</a>
@@ -86,8 +86,8 @@ sequenceDiagram
 ### One-Click Deployment
 
 ```bash
-git clone https://github.com/dwgx/WindsurfAPI.git
-cd WindsurfAPI
+git clone https://github.com/defomok-max/Wins.git
+cd Wins
 bash setup.sh          # Create directories · Set permissions · Generate .env
 node src/index.js
 ```
@@ -129,8 +129,8 @@ If you are using our public instances (`skiapi.dev`, etc.), you don't need to do
 ### Manual Installation
 
 ```bash
-git clone https://github.com/dwgx/WindsurfAPI.git
-cd WindsurfAPI
+git clone https://github.com/defomok-max/Wins.git
+cd Wins
 
 # Language Server binary — auto-detects Linux/macOS, one-click download + chmod
 bash install-ls.sh
